@@ -1,7 +1,9 @@
 # IntroProRobot
 ## Overview
 
-A program to move the stack of blocks from source to specific targets based on the size of blocks. Movement of Robot arms, picking and dropping can be controlled using the Robot methods described below. 
+A program to move the stack of blocks from source to specific targets based on the size of blocks. 
+
+Movement of Robot arms, picking and dropping can be controlled using the Robot methods described below. 
 
 ### The methods of Robot class: 
 **up(), down(), extend(), contract(), raise(), lower(), pick(), drop(),speedUp(), slowDown()**
