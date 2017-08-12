@@ -16,4 +16,5 @@ up(), down(), extend(), contract(), raise(), lower(), pick(), drop(),speedUp(), 
 •	It can be dropped at the top of the stack of blocks at one of the three targets using drop(), depending on the size of the block. The height of blocks can only be 1, 2 or 3. Blocks of height 1, 2 and 3 must be placed in columns 1, 2 and 3 respectively.
 
 Other Constraints
+
 •	Algorithms for moving the blocks must avoid collisions with other blocks and bars.  
